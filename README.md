@@ -25,7 +25,4 @@ A sleek, modern, and feature-rich scientific calculator web application built wi
 * **Font Awesome & Google Fonts** – Icons and typography (*Plus Jakarta Sans*)
 
  
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/NovaCalc.git](https://github.com/your-username/NovaCalc.git)
+  
